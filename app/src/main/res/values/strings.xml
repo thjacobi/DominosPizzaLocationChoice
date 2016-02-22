@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dominos Pizza Location Choice</string>
+    <string name="location">Select a Location</string>
+    <string name="findBtn">Find Pizza</string>
+    <string name="selectedLocation">Selected Location Information:</string>
+
+    <string-array name="location_array">
+        <item>1701 Woodland Ave</item>
+        <item>309 E Central Entrance</item>
+        <item>1204 Bellknap Street</item>
+        <item>4960 Miller Trunk Hwy</item>
+        <item>309 N. Central Ave</item>
+    </string-array>
+</resources>
